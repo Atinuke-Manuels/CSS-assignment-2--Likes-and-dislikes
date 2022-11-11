@@ -23,6 +23,9 @@ h1{
     margin-left: 300px;
     color: maroon;
 }
+li{
+    color: inherit;
+}
 ol{color: purple;
 background-color: aliceblue;}
 ul{
