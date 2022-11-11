@@ -1,4 +1,24 @@
 body{
-    background-color: gray;
+    background-color: rgb(94, 86, 86);
     box-sizing: 0;
+}
+h1{
+    text-align: center;
+}
+.likes ,.dislikes{
+    border: 3px double saddlebrown;
+    margin-top: 20px;
+    width: 300px;
+    color: maroon;
+    background-color: gold;
+}
+.dislikes{
+    margin-left: 220px;
+    color: maroon;
+}
+ol{color: purple;
+background-color: aliceblue;}
+ul{
+    color: initial;
+    background-color: burlywood;
 }
